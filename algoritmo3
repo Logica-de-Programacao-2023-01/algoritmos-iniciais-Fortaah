@@ -1,8 +1,7 @@
 Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números.
 
-
-1:Leia A
-2:Leia B
-3:Leia C
-4:Média = (A + B + C):3
-5:Escreva Média
+E= numero de var utilizados na soma
+Soma= var + var
+Média= soma/E
+Escreva Média
+Fim
