@@ -3,4 +3,4 @@ Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatur
 1:leia F
 2:Celsius = (F − 32) × 5/9
 3:escreva Celsius
-
+Fim
